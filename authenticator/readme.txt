@@ -2,7 +2,7 @@
 Contributors: inpsyde, Bueltge, nullbyte, dnaber-de
 Tags: login, authentification, accessible, access, members
 Requires at least: 5.0
-Tested up to: 6.1
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 1.3.1
 License: GPLv3 or later
